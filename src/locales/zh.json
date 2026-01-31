@@ -1,0 +1,107 @@
+{
+  "chat": {
+    "loading": "加载聊天中…",
+    "compacting": "压缩上下文...",
+    "compacted": "上下文已压缩",
+    "historyNotice": "显示最近 {{limit}} 条消息（隐藏 {{hidden}} 条）。",
+    "compose": {
+      "placeholder": "消息（↩ 发送，Shift+↩ 换行，粘贴图片）",
+      "placeholderWithAttachments": "添加消息或粘贴更多图片...",
+      "placeholderDisconnected": "连接到网关以开始聊天…",
+      "label": "消息"
+    },
+    "attachments": {
+      "previewAlt": "附件预览",
+      "remove": "移除附件"
+    },
+    "queue": {
+      "title": "队列中 ({{count}})",
+      "remove": "移除队列消息",
+      "imageAttachment": "图片 ({{count}})"
+    },
+    "actions": {
+      "stop": "停止",
+      "newSession": "新会话",
+      "send": "发送",
+      "queue": "队列"
+    },
+    "focusMode": {
+      "exit": "退出专注模式"
+    }
+  },
+  "config": {
+    "title": "设置",
+    "validity": {
+      "valid": "有效",
+      "invalid": "无效",
+      "unknown": "未知"
+    },
+    "search": {
+      "placeholder": "搜索设置..."
+    },
+    "sections": {
+      "all": "所有设置",
+      "env": "环境",
+      "update": "更新",
+      "agents": "代理",
+      "auth": "认证",
+      "channels": "通道",
+      "messages": "消息",
+      "commands": "命令",
+      "hooks": "钩子",
+      "skills": "技能",
+      "tools": "工具",
+      "gateway": "网关",
+      "wizard": "设置向导"
+    },
+    "mode": {
+      "form": "表单",
+      "raw": "原始"
+    },
+    "actions": {
+      "reload": "重新加载",
+      "saving": "保存中…",
+      "save": "保存",
+      "applying": "应用中…",
+      "apply": "应用",
+      "updating": "更新中…",
+      "update": "更新",
+      "loading": "加载中…"
+    },
+    "status": {
+      "noChanges": "无更改",
+      "unsavedChanges": "未保存的更改",
+      "unsavedChangeCount": "{{count}} 个未保存的更改",
+      "loadingSchema": "加载架构中…"
+    },
+    "diff": {
+      "summary": "查看 {{count}} 个待处理的更改",
+      "path": "路径",
+      "from": "从",
+      "to": "到"
+    },
+    "subnav": {
+      "all": "全部"
+    },
+    "warnings": {
+      "formUnsafe": "表单视图无法安全编辑某些字段。使用原始模式以避免丢失配置条目。"
+    },
+    "raw": {
+      "label": "原始 JSON5"
+    }
+  },
+  "common": {
+    "error": "错误",
+    "ok": "确定",
+    "cancel": "取消",
+    "save": "保存",
+    "apply": "应用",
+    "reload": "重新加载",
+    "update": "更新",
+    "loading": "加载中…",
+    "connected": "已连接",
+    "disconnected": "未连接",
+    "yes": "是",
+    "no": "否"
+  }
+}

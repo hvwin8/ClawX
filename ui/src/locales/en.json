@@ -1,0 +1,112 @@
+{
+  "chat": {
+    "loading": "Loading chat…",
+    "compacting": "Compacting context...",
+    "compacted": "Context compacted",
+    "historyNotice": "Showing last {{limit}} messages ({{hidden}} hidden).",
+    "compose": {
+      "placeholder": "Message (↩ to send, Shift+↩ for line breaks, paste images)",
+      "placeholderWithAttachments": "Add a message or paste more images...",
+      "placeholderDisconnected": "Connect to the gateway to start chatting…",
+      "label": "Message"
+    },
+    "attachments": {
+      "previewAlt": "Attachment preview",
+      "remove": "Remove attachment"
+    },
+    "queue": {
+      "title": "Queued ({{count}})",
+      "remove": "Remove queued message",
+      "imageAttachment": "Image ({{count}})"
+    },
+    "actions": {
+      "stop": "Stop",
+      "newSession": "New session",
+      "send": "Send",
+      "queue": "Queue"
+    },
+    "focusMode": {
+      "exit": "Exit focus mode"
+    }
+  },
+  "config": {
+    "title": "Settings",
+    "validity": {
+      "valid": "valid",
+      "invalid": "invalid",
+      "unknown": "unknown"
+    },
+    "search": {
+      "placeholder": "Search settings..."
+    },
+    "sections": {
+      "all": "All Settings",
+      "env": "Environment",
+      "update": "Updates",
+      "agents": "Agents",
+      "auth": "Authentication",
+      "channels": "Channels",
+      "messages": "Messages",
+      "commands": "Commands",
+      "hooks": "Hooks",
+      "skills": "Skills",
+      "tools": "Tools",
+      "gateway": "Gateway",
+      "wizard": "Setup Wizard"
+    },
+    "mode": {
+      "form": "Form",
+      "raw": "Raw"
+    },
+    "actions": {
+      "reload": "Reload",
+      "saving": "Saving…",
+      "save": "Save",
+      "applying": "Applying…",
+      "apply": "Apply",
+      "updating": "Updating…",
+      "update": "Update",
+      "loading": "Loading…"
+    },
+    "status": {
+      "noChanges": "No changes",
+      "unsavedChanges": "Unsaved changes",
+      "unsavedChangeCount": "{{count}} unsaved change{{plural}}",
+      "loadingSchema": "Loading schema…"
+    },
+    "diff": {
+      "summary": "View {{count}} pending change{{plural}}",
+      "path": "Path",
+      "from": "From",
+      "to": "To"
+    },
+    "subnav": {
+      "all": "All"
+    },
+    "warnings": {
+      "formUnsafe": "Form view can't safely edit some fields. Use Raw to avoid losing config entries."
+    },
+    "raw": {
+      "label": "Raw JSON5"
+    },
+    "language": {
+      "title": "Language",
+      "zh": "中文",
+      "en": "English"
+    }
+  },
+  "common": {
+    "error": "Error",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "apply": "Apply",
+    "reload": "Reload",
+    "update": "Update",
+    "loading": "Loading…",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "yes": "Yes",
+    "no": "No"
+  }
+}
